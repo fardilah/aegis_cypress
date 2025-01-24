@@ -1,0 +1,25 @@
+{
+    "meter_name": "meter-64-name",
+    "meter_description": "meter-64-meter_description",
+    "meter_type": [
+        "Gauge",
+        "Continuous",
+        "Characteristic"
+    ],
+    "reading_type": [
+        "ACTUAL",
+        "DELTA"
+    ],
+    "uom": [
+        "B34",
+        "B45",
+        "B47",
+        "B73",
+        "B78",
+        "C38",
+        "C39",
+        "C3S",
+        "C41",
+        "CCM"
+    ]
+}
